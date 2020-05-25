@@ -1,1 +1,2 @@
 This is github repo and a text file
+New file is updated now . 
